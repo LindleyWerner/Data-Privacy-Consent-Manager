@@ -1,0 +1,21 @@
+[
+  {
+    "email": "as@as.as",
+    "name": "asd",
+    "password": "1234",
+    "location": "AL",
+    "preferences": [
+      "Allow data collection for personalized recommendations",
+      "Allow data sharing with third parties"
+    ]
+  },
+  {
+    "email": "email@email.com",
+    "name": "Lindley",
+    "password": "1234",
+    "location": "CA",
+    "preferences": [
+      "Allow data collection for personalized recommendations"
+    ]
+  }
+]

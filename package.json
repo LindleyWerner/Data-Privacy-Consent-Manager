@@ -1,0 +1,17 @@
+{
+  "name": "data_privacy_consent_manager",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "clear-terminal": "^0.0.2",
+    "inquirer": "^9.2.10"
+  }
+}
